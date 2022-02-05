@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Welcome!
+#### My name is Gabriel, i am 26 years old and currently:
+👨‍💻 Dev Student\
+👷 Civil Engineer\
+👨‍🏫 Civil Engineering Professor
+
 
 <!--
 **gabrielpfvr/gabrielpfvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
