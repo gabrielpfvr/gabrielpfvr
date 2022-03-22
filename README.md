@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome!
 #### My name is Gabriel, i am 26 years old and currently:
-👨‍💻 Dev Student - Java, NodeJS\
+👨‍💻 Dev Student - Java, Node.js\
 👷 Civil Engineer
 
 
