@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning how to create REST API's using Spring Boot 
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-monteiro-motta/ 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Back in 2009 i started learning HTML and i stopped so i could work as Administrative Assistant Apprentice 
+- ⚡ Fun fact: Back in 2009 I started learning HTML and I stopped so I could work as Administrative Assistant Apprentice 
 - ⚡ Another Fun fact: in civil engineering college i learned logic proggraming basics, and developed my final paper with help of Excel's Visual Basic.
 <!--
 **gabrielpfvr/gabrielpfvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
