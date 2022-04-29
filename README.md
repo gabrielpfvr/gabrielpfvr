@@ -4,7 +4,6 @@
  👷 Civil Engineer
 
 - 🔭 I’m currently working on getting a job as developer 😄 
-- 🌱 I’m currently learning how to create REST API's using Spring Boot 
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-monteiro-motta/ 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Back in 2009 I started learning HTML and I stopped so I could work as Administrative Assistant Apprentice 
